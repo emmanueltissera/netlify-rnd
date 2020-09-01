@@ -4,4 +4,4 @@
   functions = "functions"
 
 [build.environment]
-  NODE_VERSION = "11.0.0"
+  NODE_VERSION = "8.9.0"
