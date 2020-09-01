@@ -3,3 +3,5 @@
   publish = "dist"
   functions = "functions"
 
+[build.environment]
+  NODE_VERSION = "11.0.0"
